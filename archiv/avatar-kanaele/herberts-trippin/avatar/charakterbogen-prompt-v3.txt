@@ -1,0 +1,33 @@
+HERBERT CHARAKTERBOGEN PROMPT v3 (1. Oktober 2026)
+Gesichtsreferenz: Herbert Gesichtsanker.png, Charakterbogen: Herbert Charakterbogen.png
+Feste Merkmale (Anker): weißer Walrossschnauzer, runde Hornbrille, kleines dunkelbraunes Muttermal mitten auf der linken Wange
+Tool: Kling 3.0 Omni, Bild erstellen, Format 16:9
+Reihenfolge: zuerst Prompt 1 (Gesicht), das beste Ergebnis als Referenzbild bei Prompt 2 mitgeben.
+
+
+PROMPT 1: GESICHTSANKER (Nahaufnahme, wird nur einmal gemacht)
+
+Cinematic close-up portrait photograph of a real, genuinely elderly EUROPEAN man, 78 years old, visibly aged wrinkled face, NOT young, NOT middle-aged, fully clothed, head and shoulders framing, face filling the frame at maximum identity detail. He has a THICK WHITE WALRUS MOUSTACHE fully covering his upper lip, ROUND TORTOISESHELL GLASSES with clear lenses and his warm grey-blue eyes clearly visible behind them, and a SMALL DARK BROWN MOLE in the MIDDLE of his own LEFT cheek, halfway between nose and ear, just below the cheekbone, clearly visible (on the right side of the image).
+
+Character: lean narrow face with defined cheekbones, NOT round, NOT chubby, no double chin. Short thin white hair, receding, combed back, a little longer above the ears. Bushy white eyebrows, slightly hooded eyelids, deep laugh lines and crow's feet, age spots on his forehead and temples, fair light skin with a faint healthy outdoor tan. Warm kind expression, relaxed alive eyes, the faintest hint of a smile under the moustache. He wears a plain heather grey crew neck t-shirt.
+
+Soft directional daylight from one side like a large window, gentle natural falloff, every pore, wrinkle and the mole clearly readable. Neutral mid-grey seamless studio backdrop with a soft painterly texture. Photorealistic, 85mm lens, completely matte unretouched natural skin with visible pores, fine wrinkles and natural imperfections, no airbrushing, no skin smoothing, no plastic skin, no CGI rendering, not an illustration. Original character with his own original face, no celebrity likeness, no real-person likeness.
+
+
+PROMPT 2: CHARAKTERBOGEN (3 Felder, Gesichtsanker als Referenz mitgeben)
+
+Three-panel character reference sheet of Herbert, the same man as in the reference image: a genuinely elderly EUROPEAN man, 78 years old, visibly aged wrinkled face, NOT young, NOT middle-aged, FULLY CLOTHED in ONE SINGLE OUTFIT across the entire sheet. In every panel: THICK WHITE WALRUS MOUSTACHE, ROUND TORTOISESHELL GLASSES, SMALL DARK BROWN MOLE in the middle of his own left cheek halfway between nose and ear, grey tweed flat cap. Neutral mid-grey seamless studio backdrop with a soft painterly texture and gentle vignette, the floor fading into the same grey, the subject standing well in front of it with a soft natural shadow behind him. Photorealistic lookbook photography, 85mm lens, 16:9 aspect ratio.
+
+Panel 1 (left third), full body standing: weight on one leg, slightly stooped relaxed posture, one thumb hooked under a suspender, the other hand loose at his side, warm friendly look into the camera. Thick white walrus moustache, round tortoiseshell glasses, small dark brown mole in the middle of his left cheek.
+
+Panel 2 (center third), side profile medium bust portrait, strict 90 degree profile facing the left edge of the image so his LEFT cheek faces the camera, the small dark brown mole clearly visible in the middle of the cheek below the cheekbone. Thick white walrus moustache seen from the side, round tortoiseshell glasses temple arm visible, wearing the SAME cap and SAME shirt as in panel 1.
+
+Panel 3 (right third), frontal medium bust portrait: calm warm gaze into the camera, the faintest smile under the thick white walrus moustache, round tortoiseshell glasses, small dark brown mole clearly visible in the middle of his left cheek (right side of the image), wearing the SAME cap and SAME shirt as in panel 1.
+
+Framing rule for panels 2 and 3: face in the upper middle third, shoulders and upper chest fully showing, no tight face crops.
+
+Character, strict facial consistency: lean narrow face with defined cheekbones, NOT round, NOT chubby, no double chin, slim older build, NOT heavyset. Short thin white hair visible at the sides under the cap, bushy white eyebrows, deep laugh lines, age spots on his forehead and hands, warm grey-blue eyes. Realistic human anatomy, five fingers per hand.
+
+Outfit (identical in all three panels): grey tweed flat cap, fine beige linen shirt with a subtle small check pattern, sleeves rolled up to the elbows, brown leather suspenders, dark brown trousers, brown leather lace-up shoes. His hands are empty, no bag, no camera, nothing slung over his shoulders. No logos, no brand names, no text anywhere.
+
+Lighting and rendering: soft directional daylight from one side like a large window, gentle falloff, soft real shadows. Face identical in all three panels: same bone structure, same moustache, same glasses, same mole in the same spot, same shirt pattern, same person photographed three times. Warm natural palette, completely matte unretouched skin with visible pores and fine wrinkles, no airbrushing, no plastic skin, no CGI, not an illustration. Original character, no celebrity likeness.

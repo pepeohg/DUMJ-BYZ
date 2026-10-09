@@ -17,6 +17,9 @@ cockpit/     Unterlagen für das DUMJ BYZ Cockpit (Artifact)
   cockpit-anleitung.md       Funktionen und Einrichtung
   dumj-byz-cockpit.html      Cockpit-Quelle
   kanaele-startdaten.json    Startdaten der drei Kanäle
+archiv/      Pausierte und verworfene Kanäle
+  avatar-kanaele/            Herberts Trippin und Olli on Olympus (Prompts, Bilder, Skripte, Stand 1.10.)
+  weitere-kanal-ideen.md     Bernhart Beacht, Bill Keeper, Fog Archive, Peters Precast, Sammy Seastar
 ```
 
 ## Links

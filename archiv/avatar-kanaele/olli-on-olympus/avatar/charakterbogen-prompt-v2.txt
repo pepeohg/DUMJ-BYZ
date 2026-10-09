@@ -1,0 +1,33 @@
+OLLI CHARAKTERBOGEN PROMPT v2 (1. Oktober 2026)
+Typ: blonder 30-Jähriger mit Schnauzer, atzig, high energy, viel Charisma
+Feste Merkmale (Anker): dicker blonder Schnauzer, kleiner goldener Ring im linken Ohr, kleine Narbe durch die rechte Augenbraue
+Tool: Kling 3.0 Omni, Bild erstellen, Format 16:9
+Reihenfolge: zuerst Prompt 1 (Gesicht), das beste Ergebnis als Referenzbild bei Prompt 2 mitgeben.
+
+
+PROMPT 1: GESICHTSANKER (Nahaufnahme, wird nur einmal gemacht)
+
+Cinematic close-up portrait photograph of a real EUROPEAN man, clearly 30 years old, fully clothed, head and shoulders framing, face filling the frame at maximum identity detail. He has a THICK BLOND MOUSTACHE, full and slightly bushy, a shade darker than his hair, with a clean-shaven chin and cheeks, a SMALL GOLD HOOP EARRING in his own LEFT ear (on the right side of the image), and a SMALL PALE SCAR cutting vertically through the outer end of his own RIGHT eyebrow (on the left side of the image).
+
+Character: tousled sun-bleached blond hair, short on the sides and longer and messy on top. Lean angular face, NOT round, NOT chubby, sharp defined jawline, light sun-kissed tan, a few faint freckles across the nose, bright blue eyes with laugh lines at the corners. Cheeky confident grin showing his teeth, one eyebrow slightly raised, mischievous lively eyes, the look of a charming high energy party guy who is about to tell you some gossip. He wears a plain white t-shirt.
+
+Soft directional daylight from one side like a large window, gentle natural falloff, every pore, freckle and the scar clearly readable. Neutral mid-grey seamless studio backdrop with a soft painterly texture. Photorealistic, 85mm lens, completely matte unretouched natural skin with visible pores and natural imperfections, natural masculine grooming with no visible makeup, no airbrushing, no skin smoothing, no plastic skin, no CGI rendering, not an illustration. Original character with his own original face, no celebrity likeness, no real-person likeness.
+
+
+PROMPT 2: CHARAKTERBOGEN (3 Felder, Gesichtsanker als Referenz mitgeben)
+
+Three-panel character reference sheet of Olli, the same man as in the reference image: a EUROPEAN man, clearly 30 years old, FULLY CLOTHED in ONE SINGLE OUTFIT across the entire sheet. In every panel: THICK BLOND MOUSTACHE, SMALL GOLD HOOP EARRING in his own left ear, SMALL PALE SCAR through the outer end of his own right eyebrow, tousled blond hair, nothing on his head. Neutral mid-grey seamless studio backdrop with a soft painterly texture and gentle vignette, the floor fading into the same grey, the subject standing well in front of it with a soft natural shadow behind him. Photorealistic lookbook photography, 85mm lens, 16:9 aspect ratio.
+
+Panel 1 (left third), full body standing: relaxed cocky stance, weight on one leg, one hand pointing a finger gun at the camera, the other hand in his shorts pocket, big cheeky grin. Thick blond moustache, gold hoop earring.
+
+Panel 2 (center third), side profile medium bust portrait, strict 90 degree profile facing the left edge of the image so his LEFT ear with the small gold hoop earring faces the camera. Thick blond moustache seen from the side, a smirk, wearing the SAME shirt as in panel 1.
+
+Panel 3 (right third), frontal medium bust portrait: lively eyes looking straight into the camera, cheeky grin under the thick blond moustache, one eyebrow slightly raised, small pale scar through his right eyebrow (left side of the image), small gold hoop earring in his left ear (right side of the image), wearing the SAME shirt as in panel 1.
+
+Framing rule for panels 2 and 3: face in the upper middle third, shoulders and upper chest fully showing, no tight face crops.
+
+Character, strict facial consistency: lean angular face, NOT round, NOT chubby, sharp jawline, LEAN ATHLETIC build, NOT bulky. Sun-bleached blond hair short on the sides and messy on top, light tan, faint freckles on the nose, bright blue eyes, clean-shaven except the moustache. Realistic human anatomy, five fingers per hand.
+
+Outfit (identical in all three panels): sky blue short-sleeve linen shirt with the top two buttons open, bare neck with no necklace or jewellery besides the earring, white knee-length chino shorts, brown suede penny loafers worn without visible socks. No logos, no brand names, no text anywhere.
+
+Lighting and rendering: soft directional daylight from one side like a large window, gentle falloff, soft real shadows. Face identical in all three panels: same bone structure, same moustache, same earring, same scar, same person photographed three times. Bright warm palette, completely matte unretouched skin with visible pores, no airbrushing, no plastic skin, no CGI, not an illustration. Original character, no celebrity likeness.
