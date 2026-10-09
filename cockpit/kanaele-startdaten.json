@@ -1,0 +1,35 @@
+{
+  "collection": "channels",
+  "documents": [
+    {
+      "id": "slow-seasons",
+      "data": {
+        "name": "Slow Seasons",
+        "handle": "",
+        "niche": "Herbst- und Winter-Vibes, später weihnachtlich: Straßen, Städte, Wälder, Wege. Cozy, ruhig, atmosphärisch.",
+        "color": "c1",
+        "order": 1
+      }
+    },
+    {
+      "id": "rolling-nowhere",
+      "data": {
+        "name": "Rolling Nowhere",
+        "handle": "",
+        "niche": "POV-Fahrten mit Fahrrad, Skateboard und Scooter durch schöne Strecken.",
+        "color": "c2",
+        "order": 2
+      }
+    },
+    {
+      "id": "deep-calm",
+      "data": {
+        "name": "Deep Calm",
+        "handle": "",
+        "niche": "Satisfying Unterwasserwelten und Meeresleben, evtl. mit etwas Mythologie wie Poseidon oder Atlantis.",
+        "color": "c3",
+        "order": 3
+      }
+    }
+  ]
+}
