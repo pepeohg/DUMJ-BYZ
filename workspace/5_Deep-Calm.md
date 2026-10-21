@@ -75,7 +75,7 @@ Tipp: Nah im Dunkeln ist der sicherste Winkel für einen sauberen Loop, weil sic
 | Seepferdchen im Seegras | Idee | Claude |
 | Reihe: Versunkenes Atlantis | Idee | Claude |
 | Reihe: Poseidons Thronsaal | Idee | Claude |
-| Reihe: Deep Space (Weltraum, sechs Motive, siehe Tab 8_Deep-Space-Startbilder) | Prompt fertig | Claude |
+| Reihe: Deep Space (echte Weltall-Ereignisse, sechs Motive plus Ideen-Pool, siehe Tab 8_Deep-Space-Startbilder) | Prompt fertig | Claude |
 
 Status-Optionen: Idee, Prompt fertig, Gepostet
 
