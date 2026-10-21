@@ -13,6 +13,7 @@ workspace/   Tabs des Workspace-Docs "DUMJ BYZ Workspace" als Markdown
   5_Deep-Calm.md         Kanal-Tab Unterwasser
   6_Credits.md           Kling-Budget und Verbrauch
   7_Auswertung.md        Kennzahlen und Kanal-Vergleich
+  8_Deep-Space-Startbilder.md   Deep Calm Reihe Weltraum: echte Weltall-Ereignisse, ChatGPT-Startbilder, Kling-Prompts, Ideen-Pool
 cockpit/     Unterlagen für das DUMJ BYZ Cockpit (Artifact)
   cockpit-anleitung.md       Funktionen und Einrichtung
   dumj-byz-cockpit.html      Cockpit-Quelle
